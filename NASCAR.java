@@ -1,6 +1,14 @@
 package BJackFeb;
 
 /**
+IT RUNS ALRIGHT BUT IT HAS BUGS IN IT:  
+THREADS DO NOT STOP IMMIDIATELY WHEN A CAR WINS 
+THERE IS NO TIE OUTCOME 
+AND  A CERTAIN CAR NEVER WINS.
+
+IF YOU HAVE THE SOLUTION TO  THREADS  STOPPING IMMIDIATELY WHEN THERE IS A
+WINNER EXPECIALY LET ME KNOW.
+
  * Evans Appiah @author GCE evans.appiah@me.com . A race
  * between 3 cars for 100 miles. The first car to reach 100miles wins The are
  * four classes(Main , A , B ,C) in this file with the aid of a thread Class A-C
