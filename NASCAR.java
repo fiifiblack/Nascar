@@ -1,7 +1,7 @@
 package BJackFeb;
 
 /**
- * Evans Appiah @author GCE evans.appiah@me.com All rights reserved A race
+ * Evans Appiah @author GCE evans.appiah@me.com . A race
  * between 3 cars for 100 miles. The first car to reach 100miles wins The are
  * four classes(Main , A , B ,C) in this file with the aid of a thread Class A-C
  * are the vehicle classes and the Main uses sleep method for a fair race Last
