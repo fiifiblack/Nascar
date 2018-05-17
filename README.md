@@ -1,5 +1,5 @@
 package BJackFeb;
-
+import java.time.LocalDateTime;
 /**
  * Evans Appiah @author GCE evans.appiah@me.com All rights reserved A race
  * between 3 cars for 100 miles. The first car to reach 100miles wins The are
@@ -13,7 +13,7 @@ public class NASCAR {
 	boolean gameOver = false;
 
 	public static void main(String[] args) {
-
+System.out.println(LocalDateTime.now());
 		// long startTime = System.nanoTime();
 
 		NASCAR.welcome("Welcome to our main event");// welcome message
